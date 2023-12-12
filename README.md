@@ -1,4 +1,4 @@
-# College-Basic-Flutter-App
+# College Basic Flutter App
 # app
 
 A new Flutter project.
